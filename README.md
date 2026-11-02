@@ -3,7 +3,7 @@
 
 A modern and visually appealing cafe website designed to represent Mahalakshmi Cafe with an elegant design, coffee-inspired colors, interactive elements, and smooth animations.
 
-## 📌 About the Project
+## 📌 About the Project .
 
 Mahalakshmi Cafe is a frontend web development project that combines the traditional feel of an Indian cafe with modern web technologies.
 
@@ -132,7 +132,7 @@ Through this project, the following skills can be developed:
 
 ## 📄 License
 
-This project is created for educational and learning purposes. Add a suitable open-source license if you decide to distribute the project publicly.
+This project   is created for educational and learning purposes. Add a suitable open-source license if you decide to distribute the project publicly.
 
 ---
 
