@@ -1,5 +1,5 @@
 # Mahalakshmi_Cafee
-# ☕ Mahalakshmi Cafe — Premium Cafe Website
+# ☕ Mahalakshmi Cafe — Premium Cafe Website......
 
 A modern and visually appealing cafe website designed to represent Mahalakshmi Cafe with an elegant design, coffee-inspired colors, interactive elements, and smooth animations.
 
@@ -130,7 +130,7 @@ Through this project, the following skills can be developed:
 - Running and testing a website using VS Code.
 - Documenting a project for GitHub.
 
-## 📄 License
+## 📄 License  ##
 
 This project   is created for educational and learning purposes. Add a suitable open-source license if you decide to distribute the project publicly.
 
